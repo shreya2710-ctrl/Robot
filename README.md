@@ -1,2 +1,3 @@
 # Robot
-This is a robot made using html n css
+This is a robot made using HTML and CSS. It was taught during the learning phase of web development... 
+
